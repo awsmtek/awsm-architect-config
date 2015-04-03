@@ -1,0 +1,17 @@
+{
+    "name": "awsm-architect-config", "version": "0.0.1",
+
+    "main": "index.js",
+
+    "plugin": {
+        "provides": [
+            "$config"
+        ]
+    },
+
+    "dependencies": {
+        "extend": "latest"
+    },
+
+    "license": "LGPL"
+}
